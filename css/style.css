@@ -1,0 +1,78 @@
+.head{
+	border:8px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	margin-bottom:40px;
+	
+	
+	
+}
+.head1{
+	border:5px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:no-repeat;
+	background-position:left center;
+	margin-bottom:40px;
+	background-attachment:fixed;
+}
+.head2{
+	border:5px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+	margin-bottom:40px;
+	background-attachment:scroll;
+}
+.head3{
+	border:5px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:no-repeat;
+	background-position:right top;
+	margin-bottom:40px;
+}
+.head4{
+	border:5px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:no-repeat;
+	background-position:right center;
+	margin-bottom:40px;
+	background-size:cover;
+}
+.head5{
+	border:5px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	margin-bottom:40px;
+}
+
+
+
+
+.head11{
+	border:4px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:repeat-x;
+	margin-bottom:40px;
+}
+.head12{
+	border:4px solid aqua;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/mari.jpg);
+	background-repeat:repeat-y;
+	margin-bottom:40px;
+}
